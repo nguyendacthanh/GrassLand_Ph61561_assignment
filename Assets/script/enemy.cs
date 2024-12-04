@@ -1,8 +1,12 @@
 ﻿using System.Collections;
+using TMPro;
 using UnityEngine;
 
 public class enemy : MonoBehaviour
 {
+    
+
+
     public float radius = 4f;
     public float interval = 5f;
     public float moveSpeed = 3f;
@@ -67,7 +71,7 @@ public class enemy : MonoBehaviour
     }
 
 
-
+    
 
 
 
